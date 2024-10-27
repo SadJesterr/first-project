@@ -289,7 +289,7 @@ h1, h2, p {
   width: 90%;
 }
 
-.footer__column_copyright {
+.footer__column_content_copyright {
   flex-basis: 711px;
   position: relative;
 }
@@ -314,7 +314,7 @@ h1, h2, p {
   font-weight: normal;
 }
 
-.footer__column_info {
+.footer__column_content_info {
   margin-right: auto;
 }
 
